@@ -13,6 +13,7 @@ Communication between VexV5 and Jetson Nano running Color detection program
 [PROS C++ Three-pin ports](https://pros.cs.purdue.edu/v5/api/cpp/adi.html) 
 
 [3 Wire samples on VexV5](https://pros.cs.purdue.edu/v5/tutorials/topical/adi.html)
+
 ---
 ### For Nano setup:
 
@@ -21,4 +22,5 @@ Jetson.GPIO library
 ​	(GPIO udev rules is already in Jetson Nano that are newer than JetPack 4.2)
 
 GPIO sample library
+
 ---
