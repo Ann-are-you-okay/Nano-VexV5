@@ -7,6 +7,7 @@ Main program for VexV5 in PROS project:
 Main program for Jetson Nano:
 `Color_Detect_gpio.py`
 
+---
 ## Resources:
 
 ---
